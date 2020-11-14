@@ -5,9 +5,9 @@
 
 <div>
 <h2>How to Use:</h2>
-  <h4>Sign in or register using the input</h4>
-  <h4>After logging in input a JPEG image into the input field</h4>
-  <h5>Note: To sign in without register use test@email.com and test on the sign in page</h5>
+  Sign in or register using the input
+  After logging in input a JPEG image into the input field
+  Note: To sign in without register use test@email.com and test on the sign in page
 </div>
 
 <div>
